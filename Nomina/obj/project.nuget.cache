@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DaM/LFTc+SmG3jdzBsUQohjJtXJmQvg3eqKNoiTgqEMKlKS0RwJoZ8/C/1hJjUmnLs64WWUeELAxhyr4crIgZw==",
+  "dgSpecHash": "708xmAeKzusK3Tt2CbaKFfcx5bor8exI3mQcuXdSXKmLes/GTvRxe8Ll8RK8iHdTOqFTMeE0gPola4wwCHZaqg==",
   "success": true,
-  "projectFilePath": "D:\\Estudio\\NominaPrueba\\Nomina\\Nomina.csproj",
+  "projectFilePath": "D:\\Estudio\\Nomina\\EjemploNomina\\Nomina\\Nomina.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

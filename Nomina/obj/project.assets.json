@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudio\\NominaPrueba\\Nomina\\Nomina.csproj",
+      "projectUniqueName": "D:\\Estudio\\Nomina\\EjemploNomina\\Nomina\\Nomina.csproj",
       "projectName": "Nomina",
-      "projectPath": "D:\\Estudio\\NominaPrueba\\Nomina\\Nomina.csproj",
+      "projectPath": "D:\\Estudio\\Nomina\\EjemploNomina\\Nomina\\Nomina.csproj",
       "packagesPath": "C:\\Users\\fmend\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudio\\NominaPrueba\\Nomina\\obj\\",
+      "outputPath": "D:\\Estudio\\Nomina\\EjemploNomina\\Nomina\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmend\\AppData\\Roaming\\NuGet\\NuGet.Config",
